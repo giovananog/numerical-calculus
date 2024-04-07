@@ -25,7 +25,15 @@ Para convertermos um número decimal para um número binário devemos aplicar um
 
 ## Aritmética de Ponto Flutuante
 
-A representação de números reais mais utilizada em máquinas é a do ponto flutuante. Esse número tem três partes: o sinal, a parte fracionária (mantissa) e o expoente
+A representação de números reais mais utilizada em máquinas é a do ponto flutuante. Esse número tem três partes: o sinal, a parte fracionária (mantissa) e o expoente:
+m = ±, d1d2d3 · · · dt × β^e,
+    onde:
+        dis= d´ıgitos da parte fracion´aria, d1 ̸= 0, 0 ≤ di ≤ β − 1;
+        β= base (em geral 2, 10 ou 16);
+        t= n´umero de d´ıgitos da mantissa;
+        e= expoente inteiro.
+        
+
 
 
 ### Aritmética de Ponto Flutuante - Mais Detalhes
