@@ -26,21 +26,28 @@ A resolução de um sistema linear consiste em calcular os valores de xj, j = 1,
 ## Número de Soluções
 
 (i) Solução única:
+
 2x1 + x2 = 3
+
 x1 − 3x2 = −2
 
 (Retas concorrentes)
 
 (ii) Infinitas soluções:
+
 2x1 + x2 = 3
+
 4x1 + 2x2 = 6
 
 (Retas coincidentes)
 
 
 (iii) Nenhuma solução:
+
 2x1 + x2 = 3
+
 4x1 + 2x2 = 2
+
 (Retas paralelas)
 
 Mesmo no caso geral em que o sistema linear envolve m equações e n variáveis, apenas uma entre as situações a seguir irá ocorrer:
