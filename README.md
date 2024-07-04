@@ -38,7 +38,5 @@ The course covers the following topics:
 
 The repository structure is as follows:
 
-- `anotations/`: Contains annotations and notes from the course.
-- `exercises/`: Contains exercises related to the course topics.
 - `scripts/`: Contains scripts and additional resources.
 
